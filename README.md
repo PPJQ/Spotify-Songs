@@ -3,7 +3,7 @@ The propose of this project is to strengthen my SQL skills and practice with Pow
 
 # Introduction
 
-For this project, we're going to make a Power BI dashboard. The dashboard will show the most popular songs on Spotify in each country. To develop this project, we're going to upload the dataset to a PostgreSQL database. We'll also use this notebook to preview the data and detect any issues, and then clean the table.. After the data is cleaned, we will connect the database to Power BI to create the dashboard.
+For this project, we're going to make a Power BI dashboard. The dashboard will show the most popular songs on Spotify in each country. To develop this project, we're going to upload the dataset to a PostgreSQL database.
 
 ## Data Description
 
