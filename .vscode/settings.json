@@ -3,6 +3,7 @@
         "acousticness",
         "danceability",
         "instrumentalness",
+        "postgresql",
         "speechiness",
         "spotify"
     ]
