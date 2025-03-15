@@ -1,11 +1,19 @@
-# Spotify-Songs
+# [Spotify-Songs](#content-table)
 The propose of this project is to strengthen my SQL skills and practice with PowerBI.
 
-# Introduction
+# [Content Table](#content-table)
+
+- [Spotify-Songs](#spotify-songs)
+- [Content Table](#content-table)
+- [Introduction](#introduction)
+  - [Data Description](#data-description)
+  - [Procedure](#procedure)
+
+# [Introduction](#content-table)
 
 For this project, we're going to make a Power BI dashboard. The dashboard will show the most popular songs on Spotify in each country. To develop this project, we're going to upload the dataset to a PostgreSQL database.
 
-## Data Description
+## [Data Description](#content-table)
 
 The data proportioned has the following columns of data: 
 
@@ -35,5 +43,5 @@ The data proportioned has the following columns of data:
 * `tempo`
 * `time_signature`
 
-## Procedure
+## [Procedure](#content-table)
 
